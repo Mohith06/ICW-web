@@ -1,1 +1,0 @@
-// Manages search functionality.
