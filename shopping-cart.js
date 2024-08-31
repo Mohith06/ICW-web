@@ -1,1 +1,0 @@
-// Handles shopping cart functionality.
